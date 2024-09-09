@@ -12,8 +12,7 @@ I comandi che abbiamo illustrato sono:
 ## Descrizione dei comandi
 
 Per inizializzare una repository devo usare il comando 
-```
-powershell
+```powershell
 git init 
 ```
 
