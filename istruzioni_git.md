@@ -1,4 +1,4 @@
-# Istuzione git per principianti
+# Istruzione git per principianti
 ## Introduzione
 In questo documento veranno illustrate le principali istruzioni di GIT per fare il primo commit.
 
@@ -33,7 +33,7 @@ Per effettuare un commit userò il comando:
 git commit -m "Messaggio simpatico"
  ```
 
-Per effettuare Linvio sulla repository online userò il comando:
+Per effettuare l'invio sulla repository online userò il comando:
 
 ```powershell
 git push
